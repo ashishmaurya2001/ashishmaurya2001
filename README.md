@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Maurya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **JavaScript, Backend**
+- 🌱 I’m currently learning **JavaScript, Web development**
 
 - 💬 Ask me about **react**
 
@@ -15,8 +15,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/ashish-maurya-757b08220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ashish-maurya-757b08220" height="30" width="40" /></a>
 <a href="https://instagram.com/ashishmaurya_3516" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashishmaurya_3516" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/zx_maurya121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/zx_maurya121" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/ashishmaurya2001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ashishmaurya2001/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@zx_maurya121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@zx_maurya121" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ashishmaurya2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashishmaurya2001" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
