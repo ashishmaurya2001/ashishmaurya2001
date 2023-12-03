@@ -13,9 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ashish-maurya-757b08220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ashish-maurya-757b08220" height="30" width="40" /></a>
+<a href="https://twitter.com/ashishm66304046" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashishm66304046" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ashish-maurya-757b08220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-maurya-757b08220" height="30" width="40" /></a>
 <a href="https://instagram.com/ashishmaurya_3516" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashishmaurya_3516" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@zx_maurya121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@zx_maurya121" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/zx_maurya121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zx_maurya121" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ashishmaurya2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashishmaurya2001" height="30" width="40" /></a>
 </p>
 
