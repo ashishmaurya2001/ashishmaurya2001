@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Maurya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **JavaScript, Web development**
+- 🌱 I’m currently learning **ReactJs ,JavaScript, Web development**
 
 - 💬 Ask me about **react**
 
